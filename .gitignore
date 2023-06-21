@@ -1,0 +1,7 @@
+*.env
+*.override.*
+# dependencies
+/node_modules
+.DS_Store
+app.log
+/database
