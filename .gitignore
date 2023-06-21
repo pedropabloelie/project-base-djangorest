@@ -5,3 +5,17 @@
 .DS_Store
 app.log
 /database
+
+
+
+# Created by https://www.gitignore.io
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+**/migrations
+*.DS_Store
+**/__pycache__
+**/.DS_Store
